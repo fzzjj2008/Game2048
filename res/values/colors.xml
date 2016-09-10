@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_bg_game_view">#ba9</color>
+    
+    <color name="color_day_bg">#eee</color>
+    <color name="color_day_score_board">#ba9</color>
+    <color name="color_day_text_normal_gray">#444</color>
+    <color name="color_day_text_pressed_gray">#777</color>
+    <color name="color_day_text_normal_orange">#f82</color>
+    <color name="color_day_text_pressed_orange">#d84</color>
+    <color name="color_day_mask">#ceee</color>
+    
+    <color name="color_night_bg">#211</color>
+    <color name="color_night_score_board">#ba9</color>
+    <color name="color_night_text_normal_white">#eee</color>
+    <color name="color_night_text_pressed_white">#ccc</color>
+    <color name="color_night_text_normal_yellow">#ee0</color>
+    <color name="color_night_text_pressed_yellow">#cd3</color>
+    <color name="color_night_mask">#c777</color>
+    
+</resources>
